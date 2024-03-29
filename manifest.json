@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Currency",
+  "version": "1.0.0",
+  "description": "Basic currency informer.",
+  "icons": {
+    "48": "./images/48x48.png",
+    "16": "./images/16x16.png"
+  }
+}
