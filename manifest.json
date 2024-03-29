@@ -1,10 +1,15 @@
 {
   "manifest_version": 3,
-  "name": "Currency",
+  "name": "League of Legends Champions",
   "version": "1.0.0",
-  "description": "Basic currency informer.",
+  "description": "Champion picker.",
   "icons": {
     "48": "./images/48x48.png",
     "16": "./images/16x16.png"
+  },
+  "author": "Bexy Wednesday",
+  "action": {
+    "default_popup": "./popup/popup.html",
+    "default_title": "Currency"
   }
 }
